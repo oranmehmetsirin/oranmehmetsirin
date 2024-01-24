@@ -8,7 +8,7 @@
 👯 I  am a person who is open-minded, open to learning, have good communication and like teamwork.
 
 
-📖 Language, Tool and Technologie Stack; "VS Code, HTML5, CSS3, JavaScript, React, React Native, Bootstrap, Tailwind, Git, GitHub."
+📖 Language, Tool and Technologie Stack; "VS Code, HTML, CSS, JS, TS, React, React Native, Bootstrap, Tailwind, Git and GitHub."
 
 
  👀 If you want to contribute or collaborate; I always open to learning and working on open source projects!
