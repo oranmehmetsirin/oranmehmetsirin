@@ -1,7 +1,7 @@
 👋 Hey! Hallo! Zdravo! Merhaba!
 
 
-💻 I am a Developer of "Software, Full-stack, React, React Native, Mobile" and alsa I am a Open Source Enthusiast.
+💻 I am a Developer of "Software, Full-stack, React, React Native, Mobile" and also I am a Open Source Enthusiast.
 
 👯 I  am a person who is open-minded, open to learning, have good communication and like teamwork.
 
