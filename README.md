@@ -1,11 +1,11 @@
 👋 Hey! Hallo! Zdravo! Merhaba!
 
 
-💻 I am a Developer of "Software, Full-stack, React, React Native, Mobile" and also I am a Open Source Enthusiast.
+💻 a Developer of "Software, Full-stack, React, React Native, Mobile" and also I am a Open Source Enthusiast.
 
-👯 I  am a person who is open-minded, open to learning, have good communication and like teamwork.
+👯 a person who is open-minded, open to learning, have good communication and like teamwork.
 
-🔭 I am currently learning JavaScript and React Native at Udemiq and improving myself in this area.
+🔭 Currently learning JavaScript and React Native at Udemiq and improving myself in this area.
 
 
 📖 Language, Tool and Technologie Stack; "VS Code, HTML, CSS, JS, React, React Native, Bootstrap, Tailwind, Git and GitHub."
